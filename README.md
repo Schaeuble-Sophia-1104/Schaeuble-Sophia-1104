@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey hey 👋
 
 <!--
 **Schaeuble-Sophia-1104/Schaeuble-Sophia-1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on figuring out CS at UNR, and developing my ✨ super secret passion project ✨
+
+nice to meet you!
